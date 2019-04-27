@@ -60,3 +60,21 @@ section {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+.secondary-background {
+    background-color: var(--secondary-dark-background);
+}
+
+.btn.btn-primary {
+    background-color: var(--primary-background);
+    border-color: var(--primary-background);
+}
+
+.btn.btn-primary:hover {
+    background-color: var(--primary-light-background);
+    border-color: var(--primary-light-background);
+}
+
+.btn-bigger {
+    font-size: 1.3rem;
+}
