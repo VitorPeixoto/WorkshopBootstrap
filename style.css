@@ -1,0 +1,24 @@
+:root {
+    --primary-background: #6a1b9a;
+    --primary-light-background: #9c4dcc;
+    --primary-dark-background: #38006b;
+    --primary-color: white;
+
+    --secondary-background: #303f9f;
+    --secondary-light-background: #666ad1;
+    --secondary-dark-background: #001970;
+    --secondary-color: black;
+}
+
+body {
+    background-color: var(--secondary-light-background);
+    color: var(--primary-color);
+}
+
+.navbar {
+    background-color: var(--primary-background);    
+}
+
+.navbar a {
+    color: var(--primary-color);
+}
