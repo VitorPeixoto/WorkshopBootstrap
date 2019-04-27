@@ -42,3 +42,21 @@ body {
 .t-align-center {
 	text-align: center;
 }
+
+.full-height {
+	min-height: 100vh;
+}
+
+.secondary-color {
+    color: var(--secondary-color);
+}
+
+.v-margin-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
