@@ -22,3 +22,23 @@ body {
 .navbar a {
     color: var(--primary-color);
 }
+
+.home {
+	min-height: calc(100vh - 56px);
+	background-color: rgba(0, 0, 0, 0.6);
+    background-image: url('images/thanos.jpg');
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: top;
+}
+
+.flex-cc {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.t-align-center {
+	text-align: center;
+}
