@@ -1,0 +1,29 @@
+Home:
+	título: Loja do Thanos 
+	conteúdo: Compre as jóias mais cobiçadas de todo o universo. Pouquissimo usadas, em ótimo estado. Comprando agora chegarão em sua casa em um estalar de dedos, e claro, todas pela metade do preço.
+
+Jóias do Infinito:
+	Espaço: 
+		título: Jóia do Espaço
+		imagem: images/space-stone.jpg
+		conteúdo: Permite ao portador viajar através do espaço teletransportando-se para onde quiser.
+	Mente: 
+		título: Jóia da Mente
+		imagem: images/mind-stone.jpg
+		conteúdo: Permite ao portador acessar pensamentos e sonhos de qualquer ser vivo no universo.
+	Realidade: 
+		título: Jóia do Realidade
+		imagem: images/reality-stone.jpg
+		conteúdo: Permite ao portador distorcer, alterar e manipular o tecido do universo, podendo realizar qualquer desejo e vontade.
+	Poder: 
+		título: Jóia do Poder
+		imagem: images/power-stone.jpg
+		conteúdo: Permite ao portador acesso à uma fonte infinita de energia absorvida do cosmos, aprimorando suas habilidades físicas.
+	Tempo: 
+		título: Jóia do Tempo
+		imagem: images/time-stone.jpg
+		conteúdo: Permite ao portador viajar através do espaço teletransportando-se para onde quiser.
+	Alma: 
+		título: Jóia da Alma
+		imagem: images/soul-stone.jpg
+		conteúdo: Permite ao portador visualizar e visitar qualquer estágio da linha do tempo: passado, presente e futuro.
